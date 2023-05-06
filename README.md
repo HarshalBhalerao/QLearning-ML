@@ -17,6 +17,9 @@ Now the job of the AI agent is to avoid hole nodes and reach the finish node by 
 Here the agent does a bit of exploration in the beginning and once it finds the goal node, it gets 
 trained enough to follow that same path again and again.
 
+### Watch the AI learn by studying its surrounding
+![Animation](https://user-images.githubusercontent.com/70837272/236609027-e7d680e1-0aa3-42be-ac2d-c62f0fd30588.gif)
+
 ### User Input
 In the beginning, you will get a GUI window pop up which will ask you for the grid size. 
 There are 2 options here 4x4 and 6x6. The rest of the simulation does not require any user input 
